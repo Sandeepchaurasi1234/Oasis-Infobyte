@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Landing Page <br>GROCERY STORE</title>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <nav>
+                <ul>
+                    <li><a href="">Home</a></li>
+                    <li><a href="">Products</a></li>
+                    <li><a href="">Best offer</a></li>
+                    <li><a href="">Contact</a></li>
+                </ul>
+            </nav>
+            <button class="btn" id="btn1">Log In</button>
+            <button class="btn" id="btn2">Details</button>
+        </div>
+        <div class="content">
+            <div class="text">
+            <h1> Expect more pay less</h1>
+            <p><h1>Shopping with style <br>Best deal on every shopping</h1><p>
+            <button class="btn3">Buy Now</button>
+           </div>
+        <div class="GROCERY">
+        <img src="IMG.jpg" alt="">
+        </div>
+       </div>
+   </div>
+</body>
+</html>

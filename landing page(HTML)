@@ -1,0 +1,43 @@
+CTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic" rel="stylesheet" />
+</head>
+<body>
+    <section>
+        <header>
+          <bold>
+            <h2><a href="index.html" class="Sandeep Grocery Store" >Sandeep's Store</a></h2>
+          </bold>
+            <div class="navigation">
+                <a href="#">Home</a>
+                <a href="#">About</a>
+                <a href="#">Online Order</a>
+                <a href="#">best offer</a>
+                <a href="#">Contact</a>
+            </div>
+        </header>
+        <div class="content">
+            <div class="info">
+                <h1>Shopping with STYLE </h1>
+                <p><h2>Expect more pay less<br>Friendly store in your town</h2></p>
+                <a href="#" class="Sign-up-btn">log in</a>
+                <a href="#" class="Sign-up-btn">Details</a>
+            </div>
+        </div>
+        <div class="media">
+            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+        </div>
+    </section>
+
+
+</body>
+</html>
